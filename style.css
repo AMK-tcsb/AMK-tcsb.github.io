@@ -8,7 +8,7 @@ body {
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
-  color: #444;
+  color: #1c6079;
 }
 
 h1 {
@@ -16,6 +16,18 @@ h1 {
   font-size: 32px;
 }
 
+h7 {
+  font-family: "Merriweather", serif;
+  font-size: 40px;
+}
+h8 {
+  font-family: "Merriweather", serif;
+  font-size: 40px;
+}
+h9 {
+  font-family: "Merriweather", serif;
+  font-size: 40px;
+}
 .center {
   text-align: center;
 }
